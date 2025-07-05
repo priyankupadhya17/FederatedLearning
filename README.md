@@ -35,3 +35,9 @@ To run the experiments, simply execute:
 
 ```bash
 python main.py
+
+The file `attack_and_defences.py` contains state-of-the-art model poisoning attacks such as **LIE**, **Min-Max**, and **DISBELIEVE**, along with state-of-the-art aggregation methods including **Trimmed Mean**, **DOS**, and the proposed **GAMMA** aggregation method.
+
+The code supports experiments on various datasets including **BreakHis**, **HAM10k**, **CheXpert**, **CIFAR-10**, **CIFAR-100**, and **MNIST**.  
+**Note:** Users are responsible for downloading these datasets manually and storing them locally. The appropriate data paths must then be provided in the `main.py` file.
+
