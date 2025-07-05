@@ -4,7 +4,6 @@ This repository contains two essential works in the federated learning paradigm,
 a) [**DISBELIEVE Attack**](https://arxiv.org/abs/2308.07387)  
 b) **GAMMA Aggregation Method**
 
----
 
 ## 1. DISBELIEVE Attack
 
@@ -22,7 +21,6 @@ b) **GAMMA Aggregation Method**
   </tr>
 </table>
 
----
 
 ## 2. GAMMA Aggregation Method
 
@@ -30,7 +28,6 @@ b) **GAMMA Aggregation Method**
   <img src="Images/GAMMA.png" alt="GAMMA Method" width="80%" />
 </p>
 
----
 
 ## 3. Running the Experiments
 
