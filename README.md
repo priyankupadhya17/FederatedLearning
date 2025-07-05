@@ -10,7 +10,7 @@ b) **GAMMA Aggregation Method**
 
 <p align="center">
   <img src="Images/intuition_grad.PNG" alt="Gradient Intuition" width="25%" />
-  <img src="Images/intuition_param.PNG" alt="Parameter Intuition" width="25%" />
+  <img src="Images/intuition_param.PNG" alt="Parameter Intuition" width="15%" />
 </p>
 
 ---
@@ -18,7 +18,7 @@ b) **GAMMA Aggregation Method**
 ## 2. GAMMA Aggregation Method
 
 <p align="center">
-  <img src="Images/GAMMA.png" alt="GAMMA Method" width="60%" />
+  <img src="Images/GAMMA.png" alt="GAMMA Method" width="80%" />
 </p>
 
 ---
