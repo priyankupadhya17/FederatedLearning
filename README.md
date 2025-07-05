@@ -21,6 +21,7 @@ b) **GAMMA Aggregation Method**
     </td>
   </tr>
 </table>
+
 ---
 
 ## 2. GAMMA Aggregation Method
