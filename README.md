@@ -11,10 +11,12 @@ b) **GAMMA Aggregation Method**
 <table>
   <tr>
     <td align="center" width="45%">
+      <strong>Attack on Gradients</strong><br>
       <img src="Images/intuition_grad.PNG" alt="Gradient Intuition" width="75%" />
     </td>
     <td style="border-left: 2px solid #999; height: auto;" width="2%"></td>
     <td align="center" width="45%">
+      <strong>Attack on Parameters</strong><br>
       <img src="Images/intuition_param.PNG" alt="Parameter Intuition" width="75%" />
     </td>
   </tr>
