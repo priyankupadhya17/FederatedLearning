@@ -9,8 +9,8 @@ b) **GAMMA Aggregation Method**
 ## 1. DISBELIEVE Attack
 
 <p align="center">
-  <img src="Images/intuition_grad.PNG" alt="Gradient Intuition" width="45%" />
-  <img src="Images/intuition_param.PNG" alt="Parameter Intuition" width="45%" />
+  <img src="Images/intuition_grad.PNG" alt="Gradient Intuition" width="25%" />
+  <img src="Images/intuition_param.PNG" alt="Parameter Intuition" width="25%" />
 </p>
 
 ---
