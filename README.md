@@ -15,7 +15,7 @@ b) **GAMMA Aggregation Method**
     </td>
     <td style="border-left: 2px solid #999; height: auto;" width="2%"></td>
     <td align="center" width="45%">
-      <img src="Images/intuition_param.PNG" alt="Parameter Intuition" width="80%" />
+      <img src="Images/intuition_param.PNG" alt="Parameter Intuition" width="75%" />
     </td>
   </tr>
 </table>
